@@ -7,7 +7,10 @@ interface for inputting puzzles similar to the panels in the game. It finds the
 simplest solution and displays it in the grid. You can also configure the solver
 to only show part of the solution if you just need a hint.
 
-You can try out the solver here:
+This is a fork of overv's The Witness Solver. I made this for random stuff I run into
+in The Witness randomizers that the original doesn't cover.
+
+You can try out my version of the solver with these additions here:
 
 https://overv.github.io/TheWitnessSolver/
 
